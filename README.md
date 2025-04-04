@@ -13,7 +13,7 @@ This Power BI dashboard delivers an extensive overview of sales performance acro
 - **Profit Analysis**: Compare monthly profits and analyze product-wise profitability.
 
 ## 🗂 Data Sources
-This dashboard is constructed using sales data from [data source name], encompassing transaction records, customer demographics, and product details from [start date] to [end date].
+This dashboard is constructed using sales data , encompassing transaction records, customer demographics, and product details.
 
 ## 📊 Visualizations
 - **Pie Charts**: Segment customer demographics.
