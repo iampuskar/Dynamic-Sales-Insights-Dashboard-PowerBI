@@ -3,7 +3,7 @@
 ## 📑 Project Overview
 This Power BI dashboard delivers an extensive overview of sales performance across different dimensions, such as customer demographics, sales metrics, and profitability. Designed for business stakeholders, it provides key insights to facilitate understanding of trends, cost management, and growth opportunities.
 
-![Sales Dashboard](https://github.com/user-attachments/assets/a5d1ffa7-1f47-41cc-ae55-b59fe2607ef7)
+![image](https://github.com/user-attachments/assets/69eb7e14-1822-4728-a375-9044c5ed80ca)
 
 ## ✨ Features
 - **Dynamic Filtering**: View data by different years, months, or states.
